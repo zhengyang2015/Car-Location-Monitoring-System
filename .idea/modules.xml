@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dashboard/dashboard.iml" filepath="$PROJECT_DIR$/dashboard/dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/eureka/fleet-eureka-server.iml" filepath="$PROJECT_DIR$/platform/eureka/fleet-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/hystrix-dashboard/fleet-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/platform/hystrix-dashboard/fleet-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fleet-location-ingest/fleet-location-ingest.iml" filepath="$PROJECT_DIR$/fleet-location-ingest/fleet-location-ingest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fleet-location-service/fleet-location-service.iml" filepath="$PROJECT_DIR$/fleet-location-service/fleet-location-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fleet-location-simulator/fleet-location-simulator.iml" filepath="$PROJECT_DIR$/fleet-location-simulator/fleet-location-simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fleet-location-updater/fleet-location-updater.iml" filepath="$PROJECT_DIR$/fleet-location-updater/fleet-location-updater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/platform.iml" filepath="$PROJECT_DIR$/platform/platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-location-service/service-location-service.iml" filepath="$PROJECT_DIR$/service-location-service/service-location-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-uber-vehicle-fleet.iml" filepath="$PROJECT_DIR$/spring-cloud-uber-vehicle-fleet.iml" />
+    </modules>
+  </component>
+</project>
